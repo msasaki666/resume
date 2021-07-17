@@ -42,13 +42,13 @@ h4 {
   h4::before {
     counter-increment: sub-section;
     content: counter(sub-chapter) "." counter(main-section) "." counter(sub-section)
-      ".";
+      ". ";
   }
 
   h5::before {
     counter-increment: sub-sub-section;
     content: counter(sub-chapter) "." counter(main-section) "." counter(sub-section)
-      "." counter(sub-sub-section) ".";
+      "." counter(sub-sub-section) ". ";
   }
 
   ol:first-of-type {
