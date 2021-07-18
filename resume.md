@@ -5,7 +5,9 @@
 <br>
 <br>
 
-<p class="date">2021/7/17</p>
+
+<p class="date">2021/7/18</p>
+<p class="date">佐佐木基顕</p>
 
 <p class="toc_title">目次</p>
 
