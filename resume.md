@@ -323,5 +323,5 @@ BFFでは、ユーザーアップロード機能の補助的な役割で導入�
 
 | サービス | アカウント |
 |:-----------|:------------|
-| GitHub | https://github.com/Sasaki-Motoaki |
+| GitHub | https://github.com/msasaki666 |
 | Qiita | https://qiita.com/motoakii |
