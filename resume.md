@@ -484,3 +484,4 @@ Git, GitHubを用いたプルリクエストベースのチーム開発や、Doc
 |:-----------|:------------|
 | GitHub | <https://github.com/msasaki666> |
 | Qiita | <https://qiita.com/motoakii> |
+| Zenn | <https://zenn.dev/motoakii> |
