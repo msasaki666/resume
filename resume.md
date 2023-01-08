@@ -6,7 +6,7 @@
 <br>
 <br>
 
-<p class="date">2022/10/21</p>
+<p class="date">2023/01/08</p>
 <p class="date">佐佐木基顕</p>
 
 <p class="toc_title">目次</p>
@@ -86,7 +86,7 @@
 
 #### 期間
 
-2022/10/16現在継続中。トータル3ヶ月ほどで完了予定。
+3ヶ月
 
 #### メンバー
 
@@ -170,6 +170,7 @@
 - Kubernetes(GKE Autopilot)を用いた、検証環境自動構築の仕組みの構築
 - デプロイ属人化を防ぐslackアプリ(TypeScript)の作成
 - 画像を透過処理して保存するAPIサーバー(Go)の作成
+- APMツールの導入(Cloud Trace)
 
 #### 使用技術
 
