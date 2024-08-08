@@ -1,0 +1,19 @@
+{
+  "name": "resume",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "generate": "npx markdown-toc -i resume.md && npx md-to-pdf resume.md"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@biomejs/biome": "1.8.3",
+    "markdown-toc": "^1.2.0",
+    "md-to-pdf": "^5.2.4",
+    "remark": "^15.0.1"
+  },
+  "type": "module"
+}
