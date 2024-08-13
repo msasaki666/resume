@@ -1,3 +1,9 @@
 # 職務経歴書
 
-VSCode拡張機能である[Markdown Preview Enhanced](https://marketplace.visualstudio.com/items?itemName=shd101wyy.markdown-preview-enhanced)の使用を前提
+## 概要
+
+下記のコマンドで、目次の自動生成とPDF出力を行う。
+
+```shell
+npm run generate
+```
