@@ -85,7 +85,7 @@ body_class: markdown-body
 - [その他](#%E3%81%9D%E3%81%AE%E4%BB%96)
   * [保有資格](#%E4%BF%9D%E6%9C%89%E8%B3%87%E6%A0%BC)
   * [OSS活動](#oss%E6%B4%BB%E5%8B%95)
-    + [趣味](#%E8%B6%A3%E5%91%B3)
+  * [趣味](#%E8%B6%A3%E5%91%B3)
 
 <!-- tocstop -->
 
@@ -690,7 +690,7 @@ Git, GitHubを用いたプルリクエストベースのチーム開発や、Doc
 - [activerecord-multi-tenant gem](https://github.com/citusdata/activerecord-multi-tenant/pull/202)...バグを修正した
 - [parallel gem](https://github.com/grosser/parallel/pull/331)...テストを実行対象のrubyバージョンを追加した
 
-#### 趣味
+### 趣味
 
 １つのことを長くやるより、いろんなことに挑戦するのが好きなタイプ。
 食べ歩きや、ボードゲームは、比較的長く続いている趣味である。
